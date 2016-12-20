@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:GCC_2048/GCC_2048.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GCC_Internet/GCC_Internet.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "container:GCC_TEST/GCC_TEST.xcodeproj">
+   </FileRef>
+</Workspace>

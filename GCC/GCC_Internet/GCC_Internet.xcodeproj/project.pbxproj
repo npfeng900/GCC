@@ -1,0 +1,80 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		6D510B6F1B04CF6800A64C9A /* Server.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Server.cpp; sourceTree = "<group>"; };
+		6D510B701B04CF6800A64C9A /* Server.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Server.h; sourceTree = "<group>"; };
+		6D510B711B04CF7E00A64C9A /* Client.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Client.cpp; sourceTree = "<group>"; };
+		6D510B721B04CF7E00A64C9A /* Client.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Client.h; sourceTree = "<group>"; };
+		6D8814931B0732CA00F3B7FF /* Frame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Frame.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		6D510B681B04CF2100A64C9A = {
+			isa = PBXGroup;
+			children = (
+				6D8814931B0732CA00F3B7FF /* Frame.h */,
+				6D510B711B04CF7E00A64C9A /* Client.cpp */,
+				6D510B721B04CF7E00A64C9A /* Client.h */,
+				6D510B6F1B04CF6800A64C9A /* Server.cpp */,
+				6D510B701B04CF6800A64C9A /* Server.h */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		6D510B691B04CF2100A64C9A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+			};
+			buildConfigurationList = 6D510B6C1B04CF2100A64C9A /* Build configuration list for PBXProject "GCC_Internet" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6D510B681B04CF2100A64C9A;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		6D510B6D1B04CF2100A64C9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		6D510B6E1B04CF2100A64C9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6D510B6C1B04CF2100A64C9A /* Build configuration list for PBXProject "GCC_Internet" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6D510B6D1B04CF2100A64C9A /* Debug */,
+				6D510B6E1B04CF2100A64C9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6D510B691B04CF2100A64C9A /* Project object */;
+}
